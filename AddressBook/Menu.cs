@@ -23,6 +23,10 @@ namespace AddressBook
         {
 
         }
+        public void SearchContact()
+        {
+
+        }
     }
    
 }

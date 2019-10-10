@@ -6,9 +6,11 @@ namespace UnitTestAddress
     public class AddressTest
     {
         [TestMethod]
-        public void AddressTest1()
+        public void AddressAddTest_AddContact_Personal()
         {
-
+            //arrange
+            //act
+            //assert
         }
     }
 }
